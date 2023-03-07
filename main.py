@@ -14,7 +14,7 @@ if __name__ == '__main__':
 
     
     a=2
-
-    print_hi(a)
+    b=3
+    print_hi(b)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
